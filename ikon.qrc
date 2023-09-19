@@ -1,0 +1,7 @@
+<RCC>
+  <qresource prefix="not">
+    <file>16_122653.ico</file>
+    <file>diskette_save_saveas_1514.ico</file>
+    <file>open-file_40455.ico</file>
+  </qresource>
+</RCC>
